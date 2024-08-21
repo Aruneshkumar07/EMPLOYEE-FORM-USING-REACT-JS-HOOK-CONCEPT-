@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EMPLOYEE-FORM-USING-REACT-JS-HOOK-CONCEPT-/static/css/main.eff7653a.css",
+    "main.js": "/EMPLOYEE-FORM-USING-REACT-JS-HOOK-CONCEPT-/static/js/main.ba2d277a.js",
+    "index.html": "/EMPLOYEE-FORM-USING-REACT-JS-HOOK-CONCEPT-/index.html",
+    "main.eff7653a.css.map": "/EMPLOYEE-FORM-USING-REACT-JS-HOOK-CONCEPT-/static/css/main.eff7653a.css.map",
+    "main.ba2d277a.js.map": "/EMPLOYEE-FORM-USING-REACT-JS-HOOK-CONCEPT-/static/js/main.ba2d277a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eff7653a.css",
+    "static/js/main.ba2d277a.js"
+  ]
+}
